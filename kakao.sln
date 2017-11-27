@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kakao", "kakao\kakao.csproj", "{9F532FA2-6EF8-4FE4-93D6-ED8E35B11A4A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{56ED1361-0F5D-46F3-B0F4-4F197CDD9721}"
+	ProjectSection(SolutionItems) = preProject
+		..\tokenizer\tokenizer\ConsoleApp1\Tokenizer.cs = ..\tokenizer\tokenizer\ConsoleApp1\Tokenizer.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F532FA2-6EF8-4FE4-93D6-ED8E35B11A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F532FA2-6EF8-4FE4-93D6-ED8E35B11A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F532FA2-6EF8-4FE4-93D6-ED8E35B11A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F532FA2-6EF8-4FE4-93D6-ED8E35B11A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C7F0B1A-BCB1-45A0-AAA3-A679BA698198}
+	EndGlobalSection
+EndGlobal

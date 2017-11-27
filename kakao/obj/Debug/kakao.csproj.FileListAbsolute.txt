@@ -1,0 +1,7 @@
+C:\Users\huozi\Documents\kakao\kakao\bin\Debug\kakao.exe.config
+C:\Users\huozi\Documents\kakao\kakao\bin\Debug\kakao.exe
+C:\Users\huozi\Documents\kakao\kakao\bin\Debug\kakao.pdb
+C:\Users\huozi\Documents\kakao\kakao\obj\Debug\kakao.csprojResolveAssemblyReference.cache
+C:\Users\huozi\Documents\kakao\kakao\obj\Debug\kakao.csproj.CoreCompileInputs.cache
+C:\Users\huozi\Documents\kakao\kakao\obj\Debug\kakao.exe
+C:\Users\huozi\Documents\kakao\kakao\obj\Debug\kakao.pdb
